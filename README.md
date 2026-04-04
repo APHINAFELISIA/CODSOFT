@@ -19,6 +19,20 @@ Python
 Regular Expressions (re module)
 Datetime module
 
-**License**:
-This project is open-source and free to use.
 
+# TASK 2Tic-Tac-Toe AI (Minimax Algorithm)
+
+**Project Description**
+This project implements an AI-powered Tic-Tac-Toe game where a human player competes against an unbeatable AI agent. The AI uses the Minimax algorithm, a decision-making algorithm commonly used in game theory, to always choose the optimal move.
+The game runs in the terminal and allows interactive gameplay between the user and the AI.
+
+**Features**
+Play Tic-Tac-Toe against an unbeatable AI
+Uses Minimax algorithm for optimal decision making
+Simple command-line interface
+Detects win, loss, and draw conditions
+Clean and easy-to-understand code
+
+**Technologies Used**
+Python
+Game Theory (Minimax Algorithm)
