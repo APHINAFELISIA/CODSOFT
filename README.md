@@ -36,3 +36,27 @@ Clean and easy-to-understand code
 **Technologies Used**
 Python
 Game Theory (Minimax Algorithm)
+
+# Task 4: Genre-Based Movie Recommendation System
+
+**Project Description**
+This project is a **movie recommendation system** that suggests movies based on user-selected **genres** such as *romance, comedy, action*, etc.
+Unlike similarity-based systems, this model filters movies directly based on their genres using a **content-based filtering approach**. It uses a real-world dataset from Kaggle (TMDB 5000 Movies Dataset).
+
+
+**Features**
+* Recommend movies based on **user input genre**
+* Supports multiple genres (e.g., *romantic comedy*, *action thriller*)
+* Uses real-world dataset from Kaggle
+* Simple and interactive **command-line interface**
+* Handles missing and invalid inputs
+
+ **Technologies Used**
+* Python
+* Pandas
+* AST (for parsing JSON-like data)
+
+**Dataset**
+Dataset used: **TMDB 5000 Movie Dataset**
+🔗 https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata
+
